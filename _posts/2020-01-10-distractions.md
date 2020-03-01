@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tips on Beating Distraction"
-categories: blockchain
+categories: life
 author: "Dmitry Baimuratov"
 ---
 
