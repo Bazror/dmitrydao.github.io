@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Documentation Principles for Company X"
+title: "General Documentation Principles"
 categories: tech
 author: "Dmitry Baimuratov"
 ---
@@ -25,7 +25,7 @@ The keywords "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SH
 
 ## Principles
 
-Company X holds itself to higher standards in development, auditing and documentation to serve a bigger purpose and work with a higher quality of clients worldwide. This document represents core principles that the company SHOULD follow during documenting any feature, major release, code sample, API endpoint, SDK, tutorial or any developer-facing content in the future-forward.
+Company holds itself to higher standards in development, auditing and documentation to serve a bigger purpose and work with a higher quality of clients worldwide. This document represents core principles that the company SHOULD follow during documenting any feature, major release, code sample, API endpoint, SDK, tutorial or any developer-facing content in the future-forward.
 
 ### 1. Documentation is a Product
 Documentation SHOULD be viewed as a separate product from everything else that the company does. Outside of financial data, it's the most visited place of the company's public information. Often, it determines relationships between existing and new clients. Thus, it has to be treated properly.
