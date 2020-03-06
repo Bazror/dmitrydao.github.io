@@ -4,7 +4,7 @@ title: "3 Pillars for Crypto Payments Adoption "
 categories: blockchain
 author: "Dmitry Baimuratov"
 ---
-# Pre-history
+## Pre-history
 I was born in Ukraine, a country with an amazing local banking system, yet extremely poor international payment system. Paypal, Stripe, Revolut, N26 or any other major player is simply not accessible to us. Having the brightest IT specialists in the world require gateways to EU or US bank accounts but that’s quite a tough challenge for those who are living here. Payoneer seems to be the only option but it’s quite expensive based on what I’ve heard from people who are using it.
 
 Bitcoin, on the other side, is one of the best alternatives I stumbled upon that solves all of this. I bought the idea after sending $1 worth of Bitcoin to my friend in Dubai. It was almost free, instant, and didn’t require any permissions from financial institutions. It felt great.
