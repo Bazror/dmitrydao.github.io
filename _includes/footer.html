@@ -6,18 +6,27 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              <a class="black-link" href="{{ site.url }}/about.html">
-                {{ site.author | escape }} 
-              </a>
+            <a class="black-link" href="{{ site.url }}/about.html">
+              {{ site.author | escape }}
+            </a>
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li>
+          </li>
+          {%- if site.email -%}
+          <li>
             <a class="u-email black-link" href="mailto:{{ site.email }}">{{ site.email }} </a></li>
-            {%- endif -%}
+          {%- endif -%}
         </ul>
       </div>
     </div>
   </div>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135506355-5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-135506355-5');
+  </script>
+
 </footer>
