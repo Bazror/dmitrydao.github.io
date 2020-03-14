@@ -3,7 +3,7 @@ layout: about
 ---
 Devs code, I write. Have been doing this for 3 years and don't want to stop. 
 Mostly write for blockchain products because I believe they will win. Can handle tech posts, guides, tutorials, UX copy, API docs.
-I also run a Steem witness node and build apps for blockchain communities which is a nice bonus.
+I also run a Steem witness node and build apps for blockchain communities, which is a nice bonus.
 
 ## Getting Started
 
